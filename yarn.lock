@@ -1,0 +1,10 @@
+# yarn lockfile v1
+# mtime: 2026
+
+__metadata:
+  version: 6
+  cacheKey: 8
+
+"qa-yarn-test@workspace:.":
+  version: 1.0.0
+  resolution: "qa-yarn-test@workspace:."
